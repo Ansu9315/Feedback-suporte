@@ -142,3 +142,7 @@ body{
 .modal-footer{
    justify-content: center;
 }
+.modal-title{
+    font-family: poppins, sans-serif;
+    color: #000b68;
+}
